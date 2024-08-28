@@ -1,4 +1,4 @@
-# ChatB4L 📩
+# ChatB4L ✉️
 
 ChatB4L es una aplicación de chat moderna y fácil de usar, diseñada para conectar a personas de manera rápida y segura. ¡Explora un nuevo nivel de comunicación!
 
@@ -55,8 +55,3 @@ Una vez que el proyecto esté en marcha, abre tu navegador y navega a `http://lo
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](./LICENSE) para más detalles.
 
-## Contacto ✉️
-
-Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto:
-
-- **GitHub**: [Dennis290699](https://github.com/Dennis290699)
