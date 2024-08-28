@@ -1,7 +1,3 @@
-Claro, aquí tienes un README.md mejorado para tu proyecto "ChatB4L":
-
----
-
 # ChatB4L 📩
 
 ChatB4L es una aplicación de chat moderna y fácil de usar, diseñada para conectar a personas de manera rápida y segura. ¡Explora un nuevo nivel de comunicación!
@@ -64,8 +60,3 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](./LICENS
 Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto:
 
 - **GitHub**: [Dennis290699](https://github.com/Dennis290699)
-- **Email**: [tu_email@example.com](mailto:tu_email@example.com)
-
----
-
-Este README está estructurado para ser claro y acogedor tanto para desarrolladores como para usuarios interesados en contribuir a tu proyecto. ¡Buena suerte con ChatB4L!
